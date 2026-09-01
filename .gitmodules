@@ -1,0 +1,9 @@
+[submodule "src/ardupilot"]
+	path = src/ardupilot
+	url = https://github.com/ArduPilot/ardupilot.git
+[submodule "src/micro-ROS-Agent"]
+	path = src/micro-ROS-Agent
+	url = https://github.com/micro-ROS/micro-ROS-Agent.git
+[submodule "src/open_vins"]
+	path = src/open_vins
+	url = https://github.com/rpng/open_vins.git
